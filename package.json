@@ -1,0 +1,23 @@
+{
+  "name": "vesna516",
+  "version": "1.0.0",
+  "description": "Resume page",
+  "author": "Lyudmila Zaytseva",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vesna516/vesna516.github.io.git"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
