@@ -15,7 +15,7 @@ const path = {
     },
     watch: {
         html: 'src/*.html',
-        style: 'src/scss/*.scss',
+        style: 'src/*.scss',
     },
     build: {
         html: 'docs/',
